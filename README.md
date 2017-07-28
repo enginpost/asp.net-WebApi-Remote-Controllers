@@ -1,5 +1,5 @@
 ## ASP.NET WebApi Remote Controllers
-This project is a sample demo showing how to create an *ASP.NET WebAPI 2 RESTful JSON API* that dynamically loads external assemblies (DLLs) that contain APi Routes.
+This project is a demo showing how to create an *ASP.NET WebAPI 2 RESTful JSON API* that dynamically loads external assemblies (DLLs) that contain APi Routes.
 
 ### What is included
 The repo contains a single solution with three demo route projects and a single base empty WebAPI 2 project that loads the route group assemblies:
