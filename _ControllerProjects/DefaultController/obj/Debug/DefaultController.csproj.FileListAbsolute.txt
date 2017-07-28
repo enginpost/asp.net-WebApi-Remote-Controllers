@@ -1,0 +1,13 @@
+C:\projects\_ASP.NET\Remote-Controllers\_ControllerProjects\DefaultController\obj\Debug\DefaultController.csprojResolveAssemblyReference.cache
+C:\projects\_ASP.NET\Remote-Controllers\_ControllerProjects\DefaultController\bin\Debug\DefaultController.dll
+C:\projects\_ASP.NET\Remote-Controllers\_ControllerProjects\DefaultController\bin\Debug\DefaultController.pdb
+C:\projects\_ASP.NET\Remote-Controllers\_ControllerProjects\DefaultController\bin\Debug\Newtonsoft.Json.dll
+C:\projects\_ASP.NET\Remote-Controllers\_ControllerProjects\DefaultController\bin\Debug\System.Net.Http.Formatting.dll
+C:\projects\_ASP.NET\Remote-Controllers\_ControllerProjects\DefaultController\bin\Debug\System.Web.Http.dll
+C:\projects\_ASP.NET\Remote-Controllers\_ControllerProjects\DefaultController\bin\Debug\Utilities.dll
+C:\projects\_ASP.NET\Remote-Controllers\_ControllerProjects\DefaultController\bin\Debug\Utilities.pdb
+C:\projects\_ASP.NET\Remote-Controllers\_ControllerProjects\DefaultController\bin\Debug\Newtonsoft.Json.xml
+C:\projects\_ASP.NET\Remote-Controllers\_ControllerProjects\DefaultController\bin\Debug\System.Net.Http.Formatting.xml
+C:\projects\_ASP.NET\Remote-Controllers\_ControllerProjects\DefaultController\bin\Debug\System.Web.Http.xml
+C:\projects\_ASP.NET\Remote-Controllers\_ControllerProjects\DefaultController\obj\Debug\DefaultController.dll
+C:\projects\_ASP.NET\Remote-Controllers\_ControllerProjects\DefaultController\obj\Debug\DefaultController.pdb

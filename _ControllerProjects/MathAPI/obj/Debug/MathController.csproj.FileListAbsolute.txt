@@ -1,0 +1,17 @@
+C:\projects\_ASP.NET\Remote-Controllers\API\bin\MathController.dll
+C:\projects\_ASP.NET\Remote-Controllers\API\bin\MathController.pdb
+C:\projects\_ASP.NET\Remote-Controllers\_ControllerProjects\MathController\obj\Debug\MathController.dll
+C:\projects\_ASP.NET\Remote-Controllers\_ControllerProjects\MathController\obj\Debug\MathController.pdb
+C:\projects\_ASP.NET\Remote-Controllers\API\bin\Controllers\MathController.dll
+C:\projects\_ASP.NET\Remote-Controllers\API\bin\Controllers\MathController.pdb
+C:\projects\_ASP.NET\Remote-Controllers\_ControllerProjects\MathController\bin\MathController.dll
+C:\projects\_ASP.NET\Remote-Controllers\_ControllerProjects\MathController\bin\MathController.pdb
+C:\projects\_ASP.NET\Remote-Controllers\_ControllerProjects\MathController\bin\Newtonsoft.Json.dll
+C:\projects\_ASP.NET\Remote-Controllers\_ControllerProjects\MathController\bin\System.Net.Http.Formatting.dll
+C:\projects\_ASP.NET\Remote-Controllers\_ControllerProjects\MathController\bin\System.Web.Http.dll
+C:\projects\_ASP.NET\Remote-Controllers\_ControllerProjects\MathController\bin\Newtonsoft.Json.xml
+C:\projects\_ASP.NET\Remote-Controllers\_ControllerProjects\MathController\bin\System.Net.Http.Formatting.xml
+C:\projects\_ASP.NET\Remote-Controllers\_ControllerProjects\MathController\bin\System.Web.Http.xml
+C:\projects\_ASP.NET\Remote-Controllers\_ControllerProjects\MathController\obj\Debug\MathController.csprojResolveAssemblyReference.cache
+C:\projects\_ASP.NET\Remote-Controllers\_ControllerProjects\MathController\bin\Utilities.dll
+C:\projects\_ASP.NET\Remote-Controllers\_ControllerProjects\MathController\bin\Utilities.pdb

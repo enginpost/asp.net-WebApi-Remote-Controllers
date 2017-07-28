@@ -1,0 +1,5 @@
+C:\projects\_ASP.NET\Remote-Controllers\Utilities\bin\Debug\Utilities.dll
+C:\projects\_ASP.NET\Remote-Controllers\Utilities\bin\Debug\Utilities.pdb
+C:\projects\_ASP.NET\Remote-Controllers\Utilities\obj\Debug\Utilities.dll
+C:\projects\_ASP.NET\Remote-Controllers\Utilities\obj\Debug\Utilities.pdb
+C:\projects\_ASP.NET\Remote-Controllers\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache

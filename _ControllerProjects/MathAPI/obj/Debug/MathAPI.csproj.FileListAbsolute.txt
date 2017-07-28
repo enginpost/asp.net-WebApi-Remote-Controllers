@@ -1,0 +1,13 @@
+C:\projects\_ASP.NET\Remote-Controllers\_ControllerProjects\MathAPI\bin\MathAPI.dll
+C:\projects\_ASP.NET\Remote-Controllers\_ControllerProjects\MathAPI\bin\MathAPI.pdb
+C:\projects\_ASP.NET\Remote-Controllers\_ControllerProjects\MathAPI\bin\Newtonsoft.Json.dll
+C:\projects\_ASP.NET\Remote-Controllers\_ControllerProjects\MathAPI\bin\System.Net.Http.Formatting.dll
+C:\projects\_ASP.NET\Remote-Controllers\_ControllerProjects\MathAPI\bin\System.Web.Http.dll
+C:\projects\_ASP.NET\Remote-Controllers\_ControllerProjects\MathAPI\bin\Utilities.dll
+C:\projects\_ASP.NET\Remote-Controllers\_ControllerProjects\MathAPI\bin\Utilities.pdb
+C:\projects\_ASP.NET\Remote-Controllers\_ControllerProjects\MathAPI\bin\Newtonsoft.Json.xml
+C:\projects\_ASP.NET\Remote-Controllers\_ControllerProjects\MathAPI\bin\System.Net.Http.Formatting.xml
+C:\projects\_ASP.NET\Remote-Controllers\_ControllerProjects\MathAPI\bin\System.Web.Http.xml
+C:\projects\_ASP.NET\Remote-Controllers\_ControllerProjects\MathAPI\obj\Debug\MathAPI.csprojResolveAssemblyReference.cache
+C:\projects\_ASP.NET\Remote-Controllers\_ControllerProjects\MathAPI\obj\Debug\MathAPI.dll
+C:\projects\_ASP.NET\Remote-Controllers\_ControllerProjects\MathAPI\obj\Debug\MathAPI.pdb

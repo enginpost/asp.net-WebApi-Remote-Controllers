@@ -1,0 +1,13 @@
+C:\projects\_ASP.NET\Remote-Controllers\_ControllerProjects\SampleMvcAPI\obj\Debug\SampleMvcAPI.csprojResolveAssemblyReference.cache
+C:\projects\_ASP.NET\Remote-Controllers\_ControllerProjects\SampleMvcAPI\bin\Debug\SampleMvcAPI.dll
+C:\projects\_ASP.NET\Remote-Controllers\_ControllerProjects\SampleMvcAPI\bin\Debug\SampleMvcAPI.pdb
+C:\projects\_ASP.NET\Remote-Controllers\_ControllerProjects\SampleMvcAPI\bin\Debug\Newtonsoft.Json.dll
+C:\projects\_ASP.NET\Remote-Controllers\_ControllerProjects\SampleMvcAPI\bin\Debug\System.Net.Http.Formatting.dll
+C:\projects\_ASP.NET\Remote-Controllers\_ControllerProjects\SampleMvcAPI\bin\Debug\System.Web.Http.dll
+C:\projects\_ASP.NET\Remote-Controllers\_ControllerProjects\SampleMvcAPI\bin\Debug\Utilities.dll
+C:\projects\_ASP.NET\Remote-Controllers\_ControllerProjects\SampleMvcAPI\bin\Debug\Utilities.pdb
+C:\projects\_ASP.NET\Remote-Controllers\_ControllerProjects\SampleMvcAPI\bin\Debug\Newtonsoft.Json.xml
+C:\projects\_ASP.NET\Remote-Controllers\_ControllerProjects\SampleMvcAPI\bin\Debug\System.Net.Http.Formatting.xml
+C:\projects\_ASP.NET\Remote-Controllers\_ControllerProjects\SampleMvcAPI\bin\Debug\System.Web.Http.xml
+C:\projects\_ASP.NET\Remote-Controllers\_ControllerProjects\SampleMvcAPI\obj\Debug\SampleMvcAPI.dll
+C:\projects\_ASP.NET\Remote-Controllers\_ControllerProjects\SampleMvcAPI\obj\Debug\SampleMvcAPI.pdb
